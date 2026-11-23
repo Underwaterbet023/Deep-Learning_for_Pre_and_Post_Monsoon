@@ -1,0 +1,8 @@
+{
+  "source_file": "post-monsoon_wl_1994-2023.csv",
+  "usable_rows_after_cleaning": 5214,
+  "unique_wells": 433,
+  "date_min": "1995-11-01",
+  "date_max": "2023-11-30",
+  "target_column": "WL_in_mbgl"
+}
